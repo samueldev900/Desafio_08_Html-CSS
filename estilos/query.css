@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+@media screen and (min-width:1440px) {
+    
+    body,html{
+        height: 100%;
+    }
+    main{
+        display: flex;
+        width: 960px;
+    }
+
+
+}
